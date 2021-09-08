@@ -217,6 +217,11 @@ export const derivativesList: Record<string, string>[] = [
     description: "Randomized adventurer meals",
     url: "https://etherscan.io/address/0x615a610649e656485d9baf0ebe525496d7b78e24",
   },
+   {
+    name: "Booty",
+    description: "Randomized Pirate Booty generated on chain",
+    url: "https://etherscan.io/address/0x1c258bd871a8cf044cd0748802cb547841890ef7#writeContract",
+  },
   {
     name: "Character",
     description: "Based on the rules of the Original (Little Brown Books) D&D",
